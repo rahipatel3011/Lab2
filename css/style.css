@@ -1,0 +1,41 @@
+
+.title-heading{
+	background-color: #96e7ff;
+	text-align: center;
+}
+
+body{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav li{ 
+list-style-type:none;
+padding-left:0px;
+display: inline; 
+padding: 10px;
+}
+
+img{
+	margin-bottom: 5px;
+}
+
+h2{
+	background-color: #3191f7;
+	color: white;
+}
+
+footer{
+	background-color: #96e7ff;
+	margin-bottom: 10px;
+	text-align: center;
+	margin-top: 10px;
+}
+footer p{
+	margin: 0;
+}
+
+nav ul{
+padding-left:10px;
+display: inline;
+}
+
